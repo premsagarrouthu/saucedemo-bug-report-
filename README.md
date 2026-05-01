@@ -27,7 +27,7 @@ Performed manual testing on SauceDemo website and identified functional and UI b
 
 ### Bug 1 - Cart Issue
 
-![Cart Bug](Screenshots/bug1_cart_issue.png)
+![Cart Bug](IMG-20260501-WA0009.jpg)
 
 ### Bug 2 - Login Issue
 

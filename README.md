@@ -31,7 +31,7 @@ Performed manual testing on SauceDemo website and identified functional and UI b
 
 ### Bug 2 - Login Issue
 
-![Login Bug](Screenshots/bug2_login_error.png)
+![Login Bug](IMG-20260501-WA0010.jpg)
 
 ### Bug 3 - Sorting Issue
 

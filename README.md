@@ -35,12 +35,6 @@ Performed manual testing on SauceDemo website and identified functional and UI b
 
 ### Bug 3 - Sorting Issue
 
-![Sorting Bug](Screenshots/bug3_sorting_issue.png)
+![Sorting Bug](IMG-20260501-WA0011.jpg)
 
-### Bug 4 - Add to Cart Issue
 
-![Add to Cart Bug](Screenshots/bug4_add_to_cart_issue.png)
-
-### Bug 5 - Logout Issue
-
-![Logout Bug](Screenshots/bug5_logout_issue.png)
